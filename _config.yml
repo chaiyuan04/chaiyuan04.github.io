@@ -14,8 +14,8 @@ author: Yuan Chai
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://chaiyuan04.github.io"
-    - Learn markdown: "https://chaiyuan04.github.io"
+    - Link 1: "https://chaiyuan04.github.io"
+    - Link 2: "https://chaiyuan04.github.io"
   Author's home: "https://chaiyuan04.github.io"
 
 # --- Logo --- #
@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "chaiyuan04@gmail.com"
+  facebook: chaiyuan04
+  github: chaiyuan04
+  twitter: chaiyuan04
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -72,7 +72,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "chaiyuan04.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
